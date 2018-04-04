@@ -1,0 +1,58 @@
+/*bacground-image: https://github.com/ezsystems/slides/blob/gh-pages/slides/ezplatform-using-solr-and-php7/imgs/eZ-Logo.svg*/
+body::before {
+    background-image: linear-gradient(to right, #f7b31d, #f5971f, #f58442, #f05a22);
+    content: "";
+    display: block;
+    height: 5px;
+    position: absolute;
+    bottom:0px;
+    width: 100%;
+}
+body {
+    background: rgba(0, 0, 0, 0) radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190)) repeat scroll 0 0;
+
+}
+
+
+.about {
+    float:right;
+    width:350px;
+    clear:none
+}
+
+
+.ez_logo {
+    left: 3%;
+    position: absolute;
+    top: 2%;
+    width: 100px;
+    display:none;
+}
+.reveal table td {
+    border-bottom: 0 none;
+}
+
+.reveal ul ul li {font-size: 85%; }
+
+.reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled{border-right-color: #000000;}
+.reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled{border-left-color: #000000;}
+.reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {border-bottom-color: #000000;}
+.reveal .controls .navigate-down, .reveal .controls .navigate-down.enabled {border-top-color: #000000;}
+
+.reveal .controls .navigate-left.enabled:hover{border-right-color: #1f1f1f;}
+.reveal .controls .navigate-right.enabled:hover{border-left-color: #1f1f1f;}
+.reveal .controls .navigate-up.enabled:hover{border-bottom-color: #1f1f1f;}
+.reveal .controls .navigate-down.enabled:hover{border-top-color: #1f1f1f;}
+
+.reveal .slides p{  text-align: left !important;}
+
+.reveal h2 {text-transform: none; border-bottom: 1px solid #ccc;}
+
+a.plain, a.plain:active, a.plain:hover {
+    cursor: inherit;
+    color:inherit;
+}
+
+.reveal a, .reveal a:hover {
+    color: #FF4D00;
+}
