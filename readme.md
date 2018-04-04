@@ -80,7 +80,7 @@ Personal branding<hr />
   - Index view
   - Post view
 - View the sauce:
-  - https://github.com/janit/graphql-nextjs-wordpress
+  - https://github.com/janit/graphql-nextjs-wordpress/tree/master/app
 
 ---
 
