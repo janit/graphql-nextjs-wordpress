@@ -82,7 +82,11 @@ Personal branding<hr />
 
 ---
 
-## Cool
+# Hot or not
+
+--
+
+## Hot
 
 - No compromise SEO
 - A fresh approach, learn new things
@@ -91,7 +95,7 @@ Personal branding<hr />
 
 ---
 
-## Not cool
+## Not hot
 
 - Lose all the WP sitebuilding bonuses
 - WPGraphQL plugin compatibility?
