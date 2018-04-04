@@ -79,6 +79,8 @@ Personal branding<hr />
   - Next.js core API
   - Index view
   - Post view
+- View the sauce:
+  - https://github.com/janit/graphql-nextjs-wordpress
 
 ---
 

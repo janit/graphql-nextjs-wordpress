@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 
 var client = require("graphql-client")({
-    url: "https://wp.malloc.fi/graphql/"
+    url: "http://wp.malloc.fi/graphql/"
 });
 
 export default class Index extends React.Component {
