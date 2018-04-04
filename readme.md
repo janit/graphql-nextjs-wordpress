@@ -93,7 +93,7 @@ Personal branding<hr />
 - GraphQL syntax is legi… ble
 - Not tied to any system
 
----
+--
 
 ## Not hot
 
